@@ -1,0 +1,31 @@
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\bin\Debug\Smart Sell System.exe.config
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\bin\Debug\Smart Sell System.exe
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\bin\Debug\Smart Sell System.pdb
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart Sell System.csprojResolveAssemblyReference.cache
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart_Sell_System.Properties.Resources.resources
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart Sell System.csproj.GenerateResource.Cache
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart Sell System.exe
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart Sell System.pdb
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart_Sell_System.LoginPage.resources
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart_Sell_System.Dashboard.resources
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart_Sell_System.AddDepartment.resources
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart_Sell_System.View_Department.resources
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart_Sell_System.Add_Product.resources
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart_Sell_System.AddEmployee.resources
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart_Sell_System.AddCustomar.resources
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart_Sell_System.ShowProduct.resources
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart_Sell_System.AddType.resources
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart_Sell_System.viewType.resources
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart_Sell_System.pos.resources
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart_Sell_System.About.resources
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart_Sell_System.systemsell.resources
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\UserControl1.g.cs
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart Sell System_MarkupCompile.cache
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart Sell System_MarkupCompile.lref
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\UserControl1.baml
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart Sell System.g.resources
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart_Sell_System.management.resources
+C:\Users\Anwarul\Documents\Visual Studio 2015\Projects\Smart Sell System\Smart Sell System\obj\Debug\Smart_Sell_System.userRules.resources
+F:\project desktop\visual studio\Smart Sell System\Smart Sell System\bin\Debug\Smart Sell System.exe.config
+F:\project desktop\visual studio\Smart Sell System\Smart Sell System\obj\Debug\Smart Sell System.exe
+F:\project desktop\visual studio\Smart Sell System\Smart Sell System\obj\Debug\Smart Sell System.pdb
